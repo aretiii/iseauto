@@ -1,0 +1,9 @@
+path: /home/areti/workspace/pythonProject
+train: images/train
+val: images/train
+
+names:
+  0: car
+  1: van
+  2: person
+  3: bus
